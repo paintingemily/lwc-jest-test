@@ -1,3 +1,6 @@
 **/jsconfig.json
 
 **/.eslintrc.json
+
+# Added to hide LWC test files from DX source commands
+force-app/**/__tests__/**
